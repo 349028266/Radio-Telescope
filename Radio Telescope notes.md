@@ -60,7 +60,5 @@ can these workflow be integrated into the computer through SDR (Software Defined
  - **Cable for SDR Receiver**
 	 - coaxial cable?
   - <img width="850" height="674" alt="image" src="https://github.com/user-attachments/assets/6d2e8f0d-1be5-4517-a388-7a9a7a3601c6" />
-
 		 - https://www.youtube.com/watch?v=q_RRKGpUjZ0
-		 - ![[Pasted image 20260623193348.png]]
 		 - https://www.amazon.ca/Compact-Current-Weather-Resistant-Shortwave-Portable/dp/B0CP2V2R2H/ref=asc_df_B0CP2V2R2H?mcid=9275fe8402c93c118058c48294d56690&tag=googleshopc0c-20&linkCode=df0&hvadid=706842526694&hvpos=&hvnetw=g&hvrand=10764536863193119624&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000828&hvtargid=pla-2367328382774&psc=1&hvocijid=10764536863193119624-B0CP2V2R2H-&hvexpln=0&gad_source=1
