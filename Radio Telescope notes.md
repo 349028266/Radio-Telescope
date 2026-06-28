@@ -25,8 +25,8 @@ https://www.sciencedirect.com/topics/computer-science/field-distribution#:~:text
 **Antenna Aperture Field**: A measure of how effective an antenna is at receiving the power of electromagnetic radiation 
 
 # Radio Telescope workflow 
+<img width="983" height="688" alt="image" src="https://github.com/user-attachments/assets/380f3248-db46-41b7-86b0-11e77dae6fc7" />
 
-![[{35E8D2DC-BBE9-4FCC-BA38-D9D0DAF2C272}.png]]
 
 **Down Converter** : takes high frequency signals and shifts them into lower bands for better processing
 https://qmicrowave.com/blog/how-rf-downconverters-work-and-why-custom-solutions-matter#:~:text=An%20RF%20downconverter%20takes%20high,too%20complex%20to%20handle%20directly
@@ -59,6 +59,8 @@ can these workflow be integrated into the computer through SDR (Software Defined
 
  - **Cable for SDR Receiver**
 	 - coaxial cable?
+  - <img width="850" height="674" alt="image" src="https://github.com/user-attachments/assets/6d2e8f0d-1be5-4517-a388-7a9a7a3601c6" />
+
 		 - https://www.youtube.com/watch?v=q_RRKGpUjZ0
 		 - ![[Pasted image 20260623193348.png]]
 		 - https://www.amazon.ca/Compact-Current-Weather-Resistant-Shortwave-Portable/dp/B0CP2V2R2H/ref=asc_df_B0CP2V2R2H?mcid=9275fe8402c93c118058c48294d56690&tag=googleshopc0c-20&linkCode=df0&hvadid=706842526694&hvpos=&hvnetw=g&hvrand=10764536863193119624&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000828&hvtargid=pla-2367328382774&psc=1&hvocijid=10764536863193119624-B0CP2V2R2H-&hvexpln=0&gad_source=1
